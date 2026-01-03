@@ -29,6 +29,7 @@ This application provides users with an interactive interface to explore informa
 - **Optimized Performance:** Uses API field filtering to minimize data payload.
 
 **🛠️ Tech Stack**
+
 Technology           purpose
 HTML5                Structural foundation
 Tailwind CSS         Modern styling and responsive utility classes
@@ -37,6 +38,7 @@ FontAwesome          Professional iconography
 Google Fonts         Typography (Poppins)
 
 **⚙️ How It Works**
+
 The application follows a standard Fetch-Filter-Display logic:
 
 **Fetch**: On page load, fetchCountries() calls the REST API.
