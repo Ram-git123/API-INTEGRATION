@@ -30,12 +30,12 @@ This application provides users with an interactive interface to explore informa
 
 **🛠️ Tech Stack**
 
-Technology           purpose
-HTML5                Structural foundation
-Tailwind CSS         Modern styling and responsive utility classes
-Vanilla JavaScript   Asynchronous API fetching and DOM manipulation
-FontAwesome          Professional iconography
-Google Fonts         Typography (Poppins)
+Technology         - purpose
+HTML5              - Structural foundation
+Tailwind CSS       - Modern styling and responsive utility classes
+Vanilla JavaScript - Asynchronous API fetching and DOM manipulation
+FontAwesome        - Professional iconography
+Google Fonts       - Typography (Poppins)
 
 **⚙️ How It Works**
 
