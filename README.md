@@ -20,7 +20,8 @@ This application provides users with an interactive interface to explore informa
 **Error Handling:** Includes loading states and connection failure alerts.
 
 
-## 🚀 Features
+**🚀 Features :**
+
 - **Live API Integration:** Fetches data dynamically from [REST Countries](https://restcountries.com/).
 - **Search Functionality:** Filter countries by name in real-time.
 - **Region Filtering:** Sort countries by continent/region.
